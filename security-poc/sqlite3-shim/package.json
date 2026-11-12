@@ -1,0 +1,1 @@
+{ "name": "sqlite3", "version": "0.0.0-poc", "main": "index.cjs", "private": true }
